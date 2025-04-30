@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\bin\Debug\net7.0\exercicio 3.exe
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\bin\Debug\net7.0\exercicio 3.deps.json
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\bin\Debug\net7.0\exercicio 3.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\bin\Debug\net7.0\exercicio 3.dll
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\bin\Debug\net7.0\exercicio 3.pdb
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\obj\Debug\net7.0\exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\obj\Debug\net7.0\exercicio 3.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\obj\Debug\net7.0\exercicio 3.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\obj\Debug\net7.0\exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\obj\Debug\net7.0\exercicio 3.dll
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\obj\Debug\net7.0\refint\exercicio 3.dll
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\obj\Debug\net7.0\exercicio 3.pdb
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\obj\Debug\net7.0\exercicio 3.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\while\exercicio 3\obj\Debug\net7.0\ref\exercicio 3.dll
